@@ -1,6 +1,10 @@
 # E-Commerce-Text-Classification-using-NLP
 Classify the objects based on their text description
 
+### Problem Statement
+
+Classify the description of E-commerce products into 4 categories by implementing any NLP approach for analysis and modeling on the provided dataset. The objective is to recognize whether the given description is related to Electronics (0), Households (1), Books (2), or Clothing & Accessories (3) products. Focus majorly on unique preprocessing techniques.
+
 Dataset: https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification
 
 ## About the Dataset
@@ -30,4 +34,7 @@ Missing Values? No
 Here we used two classifier algorithms Random Forest Classifier and XGBoost Classifier Accuracy and calculated the accuracy 
 
 Random Forest Classifier Accuracy:  95.25532969757064 %
+
 XGBoost Classifier Accuracy:  87.96232027764006 %
+
+These two algorithms helps us to classify text and predicts the correct output based on the input.
