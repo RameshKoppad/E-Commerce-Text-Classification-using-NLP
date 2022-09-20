@@ -27,3 +27,7 @@ Associated Tasks: Classification
 
 Missing Values? No
 
+Here we used two classifier algorithms Random Forest Classifier and XGBoost Classifier Accuracy and calculated the accuracy 
+
+Random Forest Classifier Accuracy:  95.25532969757064 %
+XGBoost Classifier Accuracy:  87.96232027764006 %
